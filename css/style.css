@@ -60,3 +60,9 @@ header{
     height: 460px;
 }
 
+main{
+    background-color: #abcfe7;
+    width:calc(50% - 60px);
+    margin: 0 30px;
+    height: 460px;
+}
