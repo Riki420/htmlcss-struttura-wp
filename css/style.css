@@ -47,3 +47,16 @@ header{
     margin-top: 30px;
     height: 600px;
 }
+
+.text-title{
+    background-color: #abcfe7;
+    height: 80px;
+    margin-bottom: 30px;
+}
+
+.sidebar{
+    background-color: #abcfe7;
+    width: 25%;
+    height: 460px;
+}
+
