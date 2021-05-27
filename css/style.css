@@ -32,3 +32,11 @@ header{
     margin-bottom: 30px;
     margin-top:25px;
 }
+
+/*Corpo*/
+
+.box-1{
+    background-color: #e1d67a;
+    height: 600px;
+    margin-bottom: 30px;
+}
