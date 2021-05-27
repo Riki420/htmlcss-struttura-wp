@@ -28,7 +28,7 @@ body{
 
 header{
     background-color: #e579e6;
-    height: 80px;
+    height: 100px;
     margin-bottom: 30px;
     margin-top:25px;
 }
@@ -65,4 +65,11 @@ main{
     width:calc(50% - 60px);
     margin: 0 30px;
     height: 460px;
+}
+
+footer{
+    background-color:#8801fe;
+    height: 80px;
+    margin-top: 30px;
+    margin-bottom: 25px;
 }
