@@ -1,5 +1,34 @@
+/*Reset*/
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+
+/*Generics*/
+
+.clearfix:after{
+    content:'';
+    clear:both;
+    display: block;
+}
+
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.float-left{
+    float: left;
+}
+
+/*Header*/
+
+header{
+    background-color: #e579e6;
+    height: 80px;
+    margin-bottom: 30px;
+    margin-top:25px;
 }
